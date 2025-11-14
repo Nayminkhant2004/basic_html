@@ -13,8 +13,11 @@ header {
 }
 
 section.about {
-  background-color: #ffd699; /* choose your color */
-  color: #000000; /* choose your color */
+  background-color: #ffeaa7; 
+  color: #2d3436;          
   font-size: 1.25em;
   padding: 20px;
+  border-radius: 8px;       
 }
+
+
