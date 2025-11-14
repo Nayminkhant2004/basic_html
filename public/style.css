@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #005f99;
+    background-color: #838383;
     color: white;
     text-align: center;
     padding: 20px;
@@ -41,7 +41,7 @@ section.achievements li {
 }
 
 footer {
-    background-color: #005f99;
+    background-color: #838383;
     color: white;
     text-align: center;
     padding: 15px;
@@ -49,6 +49,6 @@ footer {
 }
 
 section.achievements li:hover {
-    color: #005f99;
+    color: #838383;
     cursor: pointer;
 }
